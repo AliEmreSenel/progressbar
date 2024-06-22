@@ -20,12 +20,6 @@ for(int i=0; i < 100; i++)
 progressbar_finish(progress);
 ```
 
-Example output (from `progressbar_demo.c`):
-
-![demo output](example_output/demo.png)
-
-Additional examples can be found in `test/progressbar_demo.c`
-
 ## Why did you do this?
 
 One of the things I miss most when I'm writing C instead of Ruby is the
